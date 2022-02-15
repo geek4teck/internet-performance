@@ -1,0 +1,26 @@
+{
+  "name": "internet-performance",
+  "version": "1.0.0",
+  "description": "Detailed Analytics of Internet Connection Quality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geek4teck/internet-performance.git"
+  },
+  "keywords": [
+    "Internet-Performance",
+    "ISP",
+    "Performance",
+    "Ping",
+    "Analytics"
+  ],
+  "author": "geek4teck@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geek4teck/internet-performance/issues"
+  },
+  "homepage": "https://github.com/geek4teck/internet-performance#readme"
+}
